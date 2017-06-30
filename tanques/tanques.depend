@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1498839015 source:/home/lan/Escritorio/tanke_proyect/tanques/main.cpp
+	<iostream>
+	<character.h>
+	<game.h>
+	<enemy.h>
+	<allegro_primitives.h>
+
+1498831558 source:/home/lan/Escritorio/tanke_proyect/tanques/src/character.cpp
+	"character.h"
+
+1498830669 /home/lan/Escritorio/tanke_proyect/tanques/include/character.h
+	<iostream>
+	<vector>
+	<list>
+	<arma.h>
+	<game.h>
+	<math.h>
+
+1498830885 source:/home/lan/Escritorio/tanke_proyect/tanques/src/enemy.cpp
+	"enemy.h"
+
+1498837993 /home/lan/Escritorio/tanke_proyect/tanques/include/enemy.h
+	<iostream>
+	<game.h>
+	<math.h>
+	<time.h>
+	<vector>
+	<arma.h>
+
+1498839007 /home/lan/Escritorio/tanke_proyect/tanques/include/game.h
+	<iostream>
+	"allegro.h"
+	"allegro_image.h"
+	"allegro_font.h"
+	"allegro_ttf.h"
+	"allegro_audio.h"
+	"allegro_acodec.h"
+	<cstdio>
+	<vector>
+
+1498839000 source:/home/lan/Escritorio/tanke_proyect/tanques/src/game.cpp
+	"game.h"
+
+1498829820 /home/lan/Escritorio/tanke_proyect/tanques/include/arma.h
+	<iostream>
+	<vector>
+	<game.h>
+	<enemy.h>
+
+1498830986 source:/home/lan/Escritorio/tanke_proyect/tanques/src/arma.cpp
+	"arma.h"
+

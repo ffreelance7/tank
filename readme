@@ -1,0 +1,12 @@
+Tank Game
+	-El juego tankGame  es el tipico juego de destruir a los 	enemigos .Existen 2 tipos de enemigos los basic y los hard los cuales deberan ser aniquilados.
+
+mision:
+	 La mision principal del juego esta es destruir a todos los enemigos conseguir la mayor cantidad de monedas en el menor tiempo posible
+-Controles:
+	-Direccional left
+	-Direccional right
+	-Direccional up
+	-Direccional down
+	-click-izquierdo
+
